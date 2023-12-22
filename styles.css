@@ -1,0 +1,39 @@
+.calc{
+    width: 400px;
+    height: 650px;
+    background:gray;   
+    margin-left: 700px;
+    border-radius: 20px;
+}
+
+.btnclr{
+    width: 356px;
+    height: 62px;
+    margin-left: 26px;
+    margin-top: 34px;
+    background: lightcoral;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+#screen{
+    font-size: 50px;
+    margin-top: 30px;
+    margin-left: 20px;
+    pointer-events: none;
+    height: 87px;
+    width: 355px;
+    border-radius: 20px;
+}
+
+.btn{
+    width: 66px;
+    height: 62px;
+    margin-left: 26px;
+    margin-top: 34px;
+    background: lightcoral;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 15px;
+}
